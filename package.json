@@ -5,7 +5,16 @@
   "description": "A free, scroll-driven Astro theme for small shops, boutiques and showrooms.",
   "license": "MIT",
   "private": false,
-  "keywords": ["astro-theme", "astro", "boutique", "shop", "retail", "portfolio", "landing-page", "scrollytelling"],
+  "keywords": [
+    "astro-theme",
+    "astro",
+    "boutique",
+    "shop",
+    "retail",
+    "portfolio",
+    "landing-page",
+    "scrollytelling"
+  ],
   "scripts": {
     "dev": "astro dev",
     "start": "astro dev",
@@ -14,6 +23,6 @@
     "astro": "astro"
   },
   "dependencies": {
-    "astro": "^5.0.0"
+    "astro": "^7.3.7"
   }
 }
